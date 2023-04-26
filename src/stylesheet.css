@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+.regular {
+    font-size: 14px;
+}
+
+.navbar {
+    color: white;
+    background-color: rgb(0, 0, 75);
+    margin: 50px 100px 100px 100px;
+    padding: 14px;
+    padding-left: 150px;
+    border-radius: 5px;
+}
+
+.navbar ul li {
+    list-style-type: none;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.navbar-login {
+    text-align: right;
+    padding-right: 50px;
+}
+
+body {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.main {
+    margin: 100px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+.main p {
+    font-family: serif;
+    padding: 10px 200px 10px 200px;
+    text-align: justify;
+    font-size: 12px;
+}
